@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.env
+backend/data/raw/
+backend/data/processed/
+node_modules/
+frontend/dist/
+*.zip
+*.csv
+.DS_Store
